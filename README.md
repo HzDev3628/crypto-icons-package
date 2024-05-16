@@ -1,6 +1,6 @@
 # Crypto Icons
 
-![Preview icons](https://raw.githubusercontent.com/HzDev3628/crypto-icons-package/main/banner.webp?token=GHSAT0AAAAAACRDQ5RKR4XRGRLAD7I3BUUOZSF2Y5A)  
+![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmQNPxRy9VQf9ZC2y4sQNvcW4p9112cQbssB88wQVNfGi2)  
 
 ## They are even easier to use!
 ### Simple exampl:
