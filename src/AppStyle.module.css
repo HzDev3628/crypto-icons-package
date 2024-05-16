@@ -1,5 +1,8 @@
 .container {
   display: flex;
+  background-color: rgb(230, 230, 230);
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   justify-content: center;
   height: max-content;
   margin-top: 10%;

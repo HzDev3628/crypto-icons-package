@@ -1,6 +1,6 @@
 # Crypto Icons
 
-![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmQNPxRy9VQf9ZC2y4sQNvcW4p9112cQbssB88wQVNfGi2)  
+![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmbvjbsN7oRfV9tyy9QCatg8m2ULG7kLcuci6SfLFKrW2R)  
 
 ## They are even easier to use!
 ### Simple exampl:
