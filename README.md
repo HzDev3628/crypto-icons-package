@@ -1,6 +1,6 @@
 # Crypto Icons
 
-![Preview icons](/banner.webp)  
+![Preview icons](https://raw.githubusercontent.com/HzDev3628/crypto-icons-package/main/banner.webp?token=GHSAT0AAAAAACRDQ5RKR4XRGRLAD7I3BUUOZSF2Y5A)  
 
 ## They are even easier to use!
 ### Simple exampl:
