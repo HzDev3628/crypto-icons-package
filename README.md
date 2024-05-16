@@ -13,3 +13,4 @@ export default function App () {
   )
 }
 ```
+You can set any size for your icon. You can use <d>Tailwind</b> or <b>CSS</b>.
