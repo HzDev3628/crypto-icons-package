@@ -10,7 +10,7 @@ export const MetisIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2826)">
+      <g clipPath="url(#clip0_2019_2826)">
         <path
           d="M131.964 66.5006C131.964 30.049 102.637 0.5 66.4609 0.5C30.2846 0.5 0.956543 30.049 0.956543 66.5006C0.956543 102.952 30.2834 132.5 66.4609 132.5C102.638 132.5 131.964 102.951 131.964 66.5006Z"
           fill="#00D2FF"

@@ -10,7 +10,7 @@ export const ZkIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_3020)">
+      <g clipPath="url(#clip0_2019_3020)">
         <mask
           id="mask0_2019_3020"
           maskUnits="userSpaceOnUse"
@@ -28,14 +28,14 @@ export const ZkIcon = (props: SVGProps<SVGSVGElement>) => {
             fill="white"
           />
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M104.78 66.1698L82.7688 44.2578V60.2958L60.9229 76.3668H82.7688V88.0818L104.78 66.1698Z"
             fill="black"
           />
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M27.23 66.1701L49.241 88.0821V72.1431L71.087 55.9401H49.241V44.2251L27.23 66.1701Z"
             fill="black"
           />

@@ -45,8 +45,8 @@ export const ConfluxIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="132.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#2C4EBA" />
-          <stop offset="1" stop-color="#13D67A" />
+          <stop stopColor="#2C4EBA" />
+          <stop offset="1" stopColor="#13D67A" />
         </linearGradient>
         <clipPath id="clip0_2019_2769">
           <rect x="0.5" y="0.5" width="132" height="132" rx="66" fill="white" />

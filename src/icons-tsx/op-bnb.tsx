@@ -10,7 +10,7 @@ export const OpBnbIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2836)">
+      <g clipPath="url(#clip0_2019_2836)">
         <path
           d="M132.5 66.5C132.5 30.0492 102.951 0.5 66.5 0.5C30.0492 0.5 0.5 30.0492 0.5 66.5C0.5 102.951 30.0492 132.5 66.5 132.5C102.951 132.5 132.5 102.951 132.5 66.5Z"
           fill="#111216"

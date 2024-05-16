@@ -10,7 +10,7 @@ export const KavaIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2839)">
+      <g clipPath="url(#clip0_2019_2839)">
         <path d="M132.5 0.5H0.5V132.5H132.5V0.5Z" fill="#FF433E" />
         <path
           d="M49.0204 28.3955H35.7173V104.656H49.0204V28.3955Z"

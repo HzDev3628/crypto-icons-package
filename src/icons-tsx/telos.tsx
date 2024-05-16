@@ -10,7 +10,7 @@ export const TelosIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_3008)">
+      <g clipPath="url(#clip0_2019_3008)">
         <mask
           id="mask0_2019_3008"
           maskUnits="userSpaceOnUse"
@@ -46,7 +46,7 @@ export const TelosIcon = (props: SVGProps<SVGSVGElement>) => {
           width="114.24"
           height="118.2"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
           <feFlood flood-opacity="0" result="BackgroundImageFix" />
           <feBlend
@@ -68,8 +68,8 @@ export const TelosIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="57.92"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#B179FF" />
-          <stop offset="1" stop-color="#6D4AB7" />
+          <stop stopColor="#B179FF" />
+          <stop offset="1" stopColor="#6D4AB7" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_2019_3008"
@@ -79,8 +79,8 @@ export const TelosIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="66.5015"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#36277A" />
-          <stop offset="1" stop-color="#39297E" stop-opacity="0" />
+          <stop stopColor="#36277A" />
+          <stop offset="1" stopColor="#39297E" stopOpacity="0" />
         </linearGradient>
         <clipPath id="clip0_2019_3008">
           <rect x="0.5" y="0.5" width="132" height="132" rx="66" fill="white" />

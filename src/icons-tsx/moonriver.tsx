@@ -10,7 +10,7 @@ export const MoonriverIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2843)">
+      <g clipPath="url(#clip0_2019_2843)">
         <mask
           id="mask0_2019_2843"
           maskUnits="userSpaceOnUse"

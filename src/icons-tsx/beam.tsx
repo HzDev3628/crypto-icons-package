@@ -10,7 +10,7 @@ export const BeamIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2740)">
+      <g clipPath="url(#clip0_2019_2740)">
         <mask
           id="mask0_2019_2740"
           maskUnits="userSpaceOnUse"
@@ -72,9 +72,9 @@ export const BeamIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="120.641"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F1E869" />
-          <stop offset="0.328125" stop-color="#FEA514" />
-          <stop offset="0.598958" stop-color="#FF4539" />
+          <stop stopColor="#F1E869" />
+          <stop offset="0.328125" stopColor="#FEA514" />
+          <stop offset="0.598958" stopColor="#FF4539" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_2019_2740"
@@ -84,9 +84,9 @@ export const BeamIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="54.6406"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#BBDBFF" />
-          <stop offset="0.328125" stop-color="#139EDD" />
-          <stop offset="0.598958" stop-color="#B9F7EA" />
+          <stop stopColor="#BBDBFF" />
+          <stop offset="0.328125" stopColor="#139EDD" />
+          <stop offset="0.598958" stopColor="#B9F7EA" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_2019_2740"
@@ -96,9 +96,9 @@ export const BeamIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="153.641"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#BBFFCA" />
-          <stop offset="0.328125" stop-color="#48DD13" />
-          <stop offset="0.598958" stop-color="#008805" />
+          <stop stopColor="#BBFFCA" />
+          <stop offset="0.328125" stopColor="#48DD13" />
+          <stop offset="0.598958" stopColor="#008805" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_2019_2740"
@@ -108,9 +108,9 @@ export const BeamIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="67.8241"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF6A9A" />
-          <stop offset="0.529819" stop-color="#FF5544" />
-          <stop offset="0.955545" stop-color="#E63E33" />
+          <stop stopColor="#FF6A9A" />
+          <stop offset="0.529819" stopColor="#FF5544" />
+          <stop offset="0.955545" stopColor="#E63E33" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_2019_2740"
@@ -120,9 +120,9 @@ export const BeamIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="87.6406"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF6B6B" />
-          <stop offset="0.328125" stop-color="#FE1414" />
-          <stop offset="0.598958" stop-color="#8E0900" />
+          <stop stopColor="#FF6B6B" />
+          <stop offset="0.328125" stopColor="#FE1414" />
+          <stop offset="0.598958" stopColor="#8E0900" />
         </linearGradient>
         <clipPath id="clip0_2019_2740">
           <rect x="0.5" y="0.5" width="132" height="132" rx="66" fill="white" />

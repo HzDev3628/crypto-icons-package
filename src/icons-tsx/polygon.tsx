@@ -10,7 +10,7 @@ export const PolygonIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2934)">
+      <g clipPath="url(#clip0_2019_2934)">
         <path
           d="M66.474 0.5C102.942 0.5 132.5 30.0526 132.5 66.513C132.5 102.973 102.942 132.5 66.5 132.5C30.0325 132.5 0.500017 102.947 0.500017 66.513C0.474043 30.0526 30.0325 0.5 66.474 0.5Z"
           fill="#8247E5"

@@ -10,7 +10,7 @@ export const ScrollIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2992)">
+      <g clipPath="url(#clip0_2019_2992)">
         <mask
           id="mask0_2019_2992"
           maskUnits="userSpaceOnUse"

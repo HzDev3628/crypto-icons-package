@@ -27,8 +27,8 @@ export const CeloIcon = (props: SVGProps<SVGSVGElement>) => {
             fill="#FCFF52"
           />
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M103.423 29.3398H29.5771V103.666H103.428V77.7204H91.1736C86.9496 87.1874 77.4403 93.7769 66.5582 93.7769C51.5577 93.7769 39.4084 81.4428 39.4084 66.4529C39.4084 51.4577 51.5577 39.2292 66.5582 39.2292C77.6515 39.2292 87.1608 46.0351 91.3848 55.7081H103.428V29.3398H103.423Z"
             fill="black"
           />

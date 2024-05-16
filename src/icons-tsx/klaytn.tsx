@@ -10,7 +10,7 @@ export const KlaytnIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2964)">
+      <g clipPath="url(#clip0_2019_2964)">
         <mask
           id="mask0_2019_2964"
           maskUnits="userSpaceOnUse"
@@ -49,10 +49,10 @@ export const KlaytnIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="-18.1869"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF2F00" />
-          <stop offset="0.13" stop-color="#FF3F00" />
-          <stop offset="0.38" stop-color="#FF6700" />
-          <stop offset="0.59" stop-color="#FF8C00" />
+          <stop stopColor="#FF2F00" />
+          <stop offset="0.13" stopColor="#FF3F00" />
+          <stop offset="0.38" stopColor="#FF6700" />
+          <stop offset="0.59" stopColor="#FF8C00" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_2019_2964"
@@ -62,8 +62,8 @@ export const KlaytnIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="19.344"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.2" stop-color="#F00048" />
-          <stop offset="0.79" stop-color="#FF8C00" />
+          <stop offset="0.2" stopColor="#F00048" />
+          <stop offset="0.79" stopColor="#FF8C00" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_2019_2964"
@@ -73,12 +73,12 @@ export const KlaytnIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="25.846"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.09" stop-color="#850000" />
-          <stop offset="0.25" stop-color="#A90E00" />
-          <stop offset="0.45" stop-color="#CE1C00" />
-          <stop offset="0.64" stop-color="#E92700" />
-          <stop offset="0.8" stop-color="#F92D00" />
-          <stop offset="0.93" stop-color="#FF2F00" />
+          <stop offset="0.09" stopColor="#850000" />
+          <stop offset="0.25" stopColor="#A90E00" />
+          <stop offset="0.45" stopColor="#CE1C00" />
+          <stop offset="0.64" stopColor="#E92700" />
+          <stop offset="0.8" stopColor="#F92D00" />
+          <stop offset="0.93" stopColor="#FF2F00" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_2019_2964"
@@ -88,8 +88,8 @@ export const KlaytnIcon = (props: SVGProps<SVGSVGElement>) => {
           y2="92.6307"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.07" stop-color="#850000" />
-          <stop offset="0.88" stop-color="#D30168" />
+          <stop offset="0.07" stopColor="#850000" />
+          <stop offset="0.88" stopColor="#D30168" />
         </linearGradient>
         <clipPath id="clip0_2019_2964">
           <rect x="0.5" y="0.5" width="132" height="132" rx="66" fill="white" />

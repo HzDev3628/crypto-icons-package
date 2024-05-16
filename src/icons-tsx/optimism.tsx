@@ -10,7 +10,7 @@ export const OptimismIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_2944)">
+      <g clipPath="url(#clip0_2019_2944)">
         <mask
           id="mask0_2019_2944"
           maskUnits="userSpaceOnUse"

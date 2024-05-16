@@ -10,7 +10,7 @@ export const ZoraIcon = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_2019_3032)">
+      <g clipPath="url(#clip0_2019_3032)">
         <mask
           id="mask0_2019_3032"
           maskUnits="userSpaceOnUse"

@@ -53,7 +53,7 @@ export const FuseIcon = (props: SVGProps<SVGSVGElement>) => {
           width="131.532"
           height="131.532"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolation-filters="sRGB"
         >
           <feFlood flood-opacity="0" result="BackgroundImageFix" />
           <feColorMatrix
