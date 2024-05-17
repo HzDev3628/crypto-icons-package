@@ -48,6 +48,14 @@ function App() {
   //     <icons.XplaIcon />
   //     <icons.ZkIcon />
   //     <icons.ZoraIcon />
+  //     <icons.AptosIcon />
+  //     <icons.BtcIcon />
+  //     <icons.CoinbaseIcon />
+  //     <icons.DogeCoinIcon />
+  //     <icons.JupiterIcon />
+  //     <icons.SolanaIcon />
+  //     <icons.UsdcIcon />
+  //     <icons.UsdtIcon />
   //   </div>
   // )
 }
