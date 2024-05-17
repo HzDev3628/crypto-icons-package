@@ -1,6 +1,6 @@
 import type { SVGProps } from 'react'
 
-export const DogeCoinIcon = (props: SVGProps<SVGSVGElement>) => {
+export const DogecoinIcon = (props: SVGProps<SVGSVGElement>) => {
   return (
     <svg
       width="132"
