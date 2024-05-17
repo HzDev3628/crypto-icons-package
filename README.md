@@ -2,6 +2,19 @@
 
 ![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmfFq8eRkVqpnQZUFgvC27kKZfZ9we88fbKZ1WtP2j1gbx)
 
+## How to use ?
+### Simple example with TailwindCSS:
+``` 
+import { EthIcon } from 'crypto-icons-svg'
+
+export default function App ({
+  return (
+    <EthIcon ClassName="w-10 h-10" />
+  )
+}
+```
+You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
+
 ## List with all icons:
 - Bitcoin
 - Ethereum
@@ -54,16 +67,3 @@
 - Xpla
 - Zk
 - Zora
-
-## How to use ?
-### Simple example with TailwindCSS:
-``` 
-import { EthIcon } from 'crypto-icons-svg'
-
-export default function App ({
-  return (
-    <EthIcon ClassName="w-10 h-10" />
-  )
-}
-```
-You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
