@@ -1,7 +1,7 @@
 {
   "name": "crypto-icons-svg",
   "private": false,
-  "version": "1.2.6",
+  "version": "1.2.7",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
@@ -9,13 +9,10 @@
     "name": "artem_hzdev",
     "url": "https://github.com/HzDev3628"
   },
-  "keywords": [
-    "crypto",
-    "icons",
-    "svg",
-    "tsx",
-    "web3 icons"
-  ],
+  "repository": {
+    "url": "https://github.com/HzDev3628/crypto-icons-package"
+  },
+  "keywords": ["crypto", "icons", "svg", "tsx", "web3 icons"],
   "exports": {
     ".": {
       "import": "./dist/index.es.js",
@@ -23,9 +20,7 @@
       "types": "./dist/index.d.ts"
     }
   },
-  "files": [
-    "/dist"
-  ],
+  "files": ["/dist"],
   "publishConfig": {
     "access": "public"
   },
