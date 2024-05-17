@@ -1,6 +1,6 @@
 # Crypto Icons
 
-![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmfFq8eRkVqpnQZUFgvC27kKZfZ9we88fbKZ1WtP2j1gbx)
+![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmYY6ZQ9u7xBtUUAghv8BRrjWTJbJmR7kNeu4ZHkqGXYZK)
 
 ## How to use ?
 ### Simple example with TailwindCSS:
