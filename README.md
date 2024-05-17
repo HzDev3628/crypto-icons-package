@@ -9,7 +9,7 @@ import { EthIcon } from 'crypto-icons-svg'
 
 export default function App () {
   return (
-    <EthIcon ClassName="w-10 h-10" />
+    <EthIcon className="w-10 h-10" />
   )
 }
 ```
