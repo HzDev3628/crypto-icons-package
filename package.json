@@ -1,28 +1,30 @@
 {
   "name": "crypto-icons-svg",
+  "description": "All available crypto icons in the format JSX.Element which weigh little but are very high quality and easy to use.",
   "private": false,
-  "version": "1.2.7",
+  "version": "1.2.8",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
+  "license": "MIT",
   "author": {
     "name": "artem_hzdev",
-    "url": "https://github.com/HzDev3628"
+    "url": "https://x.com/Hz_DevJs"
   },
   "repository": {
     "url": "https://github.com/HzDev3628/crypto-icons-package"
   },
   "keywords": ["crypto", "icons", "svg", "tsx", "web3 icons"],
+  "files": ["/dist"],
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "import": "./dist/index.es.js",
       "require": "./dist/index.umd.js",
       "types": "./dist/index.d.ts"
     }
-  },
-  "files": ["/dist"],
-  "publishConfig": {
-    "access": "public"
   },
   "scripts": {
     "dev": "vite",
