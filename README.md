@@ -1,6 +1,6 @@
 # Crypto Icons
 
-![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmYY6ZQ9u7xBtUUAghv8BRrjWTJbJmR7kNeu4ZHkqGXYZK)
+![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmQBJGJw5x3n3VishyH7wsVGgN3n7gxdvzMFXpWTEWx7By)
 
 ## How to use ?
 ### Simple example with TailwindCSS:
@@ -24,6 +24,7 @@ You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
 - Arbitrum
 - Arbitrum-Nova
 - Astra
+- Atom
 - Aurora
 - Aptos
 - Avalanche
@@ -31,6 +32,7 @@ You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
 - Beam
 - Blast
 - BNB
+- Cardano
 - Celo
 - Coinbase
 - Conflux
