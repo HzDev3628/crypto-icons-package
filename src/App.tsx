@@ -5,6 +5,7 @@ function App() {
   return null
   // return (
   //   <div className={style.container}>
+  //     <icons.DaiIcon />
   //     <icons.ApecoinIcon />
   //     <icons.PolkadotIcon />
   //     <icons.StarknetIcon />
