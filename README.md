@@ -1,6 +1,6 @@
 # Crypto Icons
 
-![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmbvK5x36NT5yMnaX2qSEAvVWSwETMw5fYy7sa8Rr8ZHdn)
+![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmScSD8FUNdWpuVgnBkb5xP7khYJNxRj44ACJT63T6ssEe)
 
 ## How to use ?
 ### Simple example with TailwindCSS:
@@ -41,6 +41,7 @@ You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
 - Dai
 - Dogecoin
 - Fantom
+- Flow
 - Fuse
 - Gnosis
 - Harmony
@@ -67,6 +68,8 @@ You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
 - Scroll
 - Shimmer-evm
 - Starknet
+- Sui
+- Sei
 - Telos
 - Tenet
 - Viction
