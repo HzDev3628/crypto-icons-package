@@ -1,6 +1,6 @@
 # Crypto Icons
 
-![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmQBJGJw5x3n3VishyH7wsVGgN3n7gxdvzMFXpWTEWx7By)
+![Preview icons](https://maroon-spare-jay-600.mypinata.cloud/ipfs/QmTAK6SgdE5GD6P68vjTGEuXL5URSF5nQcT9p9aA6wBciL)
 
 ## How to use ?
 ### Simple example with TailwindCSS:
@@ -21,6 +21,7 @@ You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
 - Solana
 - USDT
 - USDC
+- Apecoin
 - Arbitrum
 - Arbitrum-Nova
 - Astra
@@ -58,11 +59,13 @@ You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
 - Op-BNB
 - Optimism
 - Orderly
+- Polkadot
 - Polygon-zk
 - Polygon
 - Rari
 - Scroll
 - Shimmer-evm
+- Starknet
 - Telos
 - Tenet
 - Viction
