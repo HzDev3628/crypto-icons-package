@@ -38,6 +38,7 @@ You Can set any size for your icon. You Can use <b>Tailwind</b> or <b>CSS</b>.
 - Coinbase
 - Conflux
 - Core-Dao
+- Dai
 - Dogecoin
 - Fantom
 - Fuse
