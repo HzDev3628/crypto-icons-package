@@ -2,7 +2,7 @@
   "name": "crypto-icons-svg",
   "description": "All available crypto icons in the format JSX.Element which weigh little but are very high quality and easy to use.",
   "private": false,
-  "version": "1.8.6",
+  "version": "1.8.7",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
@@ -19,13 +19,13 @@
     "icons",
     "svg",
     "tsx",
-    "web3 icons",
-    "crypto icons",
+    "web3-icons",
+    "crypto-icons",
     "icon",
     "logo",
     "l0",
     "ts",
-    "erc20 icons"
+    "erc20-icons"
   ],
   "files": ["/dist"],
   "publishConfig": {
